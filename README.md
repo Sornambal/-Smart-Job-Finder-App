@@ -22,7 +22,9 @@ A Flask-based web application that helps users find current job openings using t
 - **Backend:** Python, Flask
 - **API:** Adzuna Job Search API
   
-
 ---
+## 🚀 Live Demo
+
+You can try the live application here: [Smart Job Finder App](https://smart-job-finder-app-1.onrender.com)
 
 
